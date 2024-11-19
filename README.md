@@ -60,17 +60,6 @@ PaymentFilter Class
 Simulates payment verification by asking the user for a fee receipt.
 ServiceFilter Class
 
-Provides options for hostel service selection.
-How to Compile and Run
-Open the project in NetBeans IDE.
-Compile the program by clicking on Build (or pressing F11).
-Run the program by clicking Run (or pressing F6).
-Follow the console prompts for interaction.
-Room for Improvements
-Database Integration: Store student details and room data persistently.
-GUI Implementation: Replace the console-based interface with a graphical user interface.
-Dynamic Room Management: Handle real-time room allocation and deallocation.
-Enhanced Payment System: Integrate payment gateways for real-world scenarios.
 
 
 
