@@ -4,11 +4,16 @@ README for Hostel System Application
 
 
 Overview
+
+
 This project implements a simple Hostel System for Comsats University using Java. It evaluates student eligibility for hostel accommodation, handles payment verification, and allows students to select hostel services.
 
 This program was developed and tested on NetBeans IDE.
 
 Features
+
+
+
 Eligibility Check
 
 Verifies if the student is from Comsats University.
@@ -32,7 +37,13 @@ Enter your university name, distance from home, and semester.
 If eligible, provide a fee receipt (yes/no).
 If payment is verified, select your preferred service type.
 The program will confirm your successful application if all conditions are met.
+
+
+
+
 Prerequisites
+
+
 Java Development Kit (JDK) version 8 or above.
 NetBeans IDE installed on your machine.
 Code Explanation
